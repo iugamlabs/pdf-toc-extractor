@@ -72,6 +72,6 @@
 
 如果您想为此项目做出贡献，请：
 
-1. 查看 [Issues](https://github.com/star-plan/PdfTocExtractor/issues) 了解当前的问题和功能请求
+1. 查看 [Issues](https://github.com/iugamlabs/PdfTocExtractor/issues) 了解当前的问题和功能请求
 2. 提交 Pull Request 时请更新此更新日志
 3. 遵循 [语义化版本](https://semver.org/lang/zh-CN/) 规范
