@@ -30,7 +30,7 @@ dotnet tool install --global PdfTocExtractor.Cli
 
 ### 从 GitHub Releases 下载
 
-访问 [Releases页面](https://github.com/star-plan/pdf-toc-extractor/releases) 下载适合您平台的可执行文件：
+访问 [Releases页面](https://github.com/iugamlabs/pdf-toc-extractor/releases) 下载适合您平台的可执行文件：
 
 - **Windows**: `PdfTocExtractor-windows-{version}.zip`
 - **Linux**: `PdfTocExtractor-linux-{version}.tar.gz`
@@ -39,7 +39,7 @@ dotnet tool install --global PdfTocExtractor.Cli
 ### 从源码构建
 
 ```bash
-git clone https://github.com/star-plan/pdf-toc-extractor.git
+git clone https://github.com/iugamlabs/pdf-toc-extractor.git
 cd PdfTocExtractor/src/PdfTocExtractor.Cli
 dotnet build -c Release
 ```
@@ -203,12 +203,12 @@ MIT License
 ## 🤝 相关项目
 
 - [PdfTocExtractor](https://www.nuget.org/packages/PdfTocExtractor) - 核心库，用于在.NET项目中集成
-- [项目主页](https://github.com/star-plan/pdf-toc-extractor) - 完整的项目文档和示例
+- [项目主页](https://github.com/iugamlabs/pdf-toc-extractor) - 完整的项目文档和示例
 
 ## 📞 支持
 
 如果您遇到问题或有建议，请：
 
-- 📋 [提交Issue](https://github.com/star-plan/pdf-toc-extractor/issues)
-- 💬 [参与讨论](https://github.com/star-plan/pdf-toc-extractor/discussions)
+- 📋 [提交Issue](https://github.com/iugamlabs/pdf-toc-extractor/issues)
+- 💬 [参与讨论](https://github.com/iugamlabs/pdf-toc-extractor/discussions)
 - ⭐ 如果这个项目对您有帮助，请给个Star！

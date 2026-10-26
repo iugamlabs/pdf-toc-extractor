@@ -192,12 +192,12 @@ MIT License
 ## 🤝 相关项目
 
 - [PdfTocExtractor.Cli](https://www.nuget.org/packages/PdfTocExtractor.Cli) - 命令行工具版本
-- [项目主页](https://github.com/star-plan/pdf-toc-extractor) - 完整的项目文档和示例
+- [项目主页](https://github.com/iugamlabs/pdf-toc-extractor) - 完整的项目文档和示例
 
 ## 📞 支持
 
 如果您遇到问题或有建议，请：
 
-- 📋 [提交Issue](https://github.com/star-plan/pdf-toc-extractor/issues)
-- 💬 [参与讨论](https://github.com/star-plan/pdf-toc-extractor/discussions)
+- 📋 [提交Issue](https://github.com/iugamlabs/pdf-toc-extractor/issues)
+- 💬 [参与讨论](https://github.com/iugamlabs/pdf-toc-extractor/discussions)
 - ⭐ 如果这个项目对您有帮助，请给个Star！

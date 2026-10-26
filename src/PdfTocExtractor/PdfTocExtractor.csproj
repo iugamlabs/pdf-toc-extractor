@@ -12,8 +12,8 @@
         <Authors>DealiAxy</Authors>
         <Description>A powerful library for extracting table of contents (TOC) from PDF files with advanced semantic analysis capabilities. Supports both bookmark extraction and intelligent structure recognition with multiple output formats.</Description>
         <PackageTags>pdf;toc;table-of-contents;extraction;bookmark;semantic-analysis;nlp;DealiAxy;itext</PackageTags>
-        <PackageProjectUrl>https://github.com/star-plan/pdf-toc-extractor</PackageProjectUrl>
-        <RepositoryUrl>https://github.com/star-plan/pdf-toc-extractor</RepositoryUrl>
+        <PackageProjectUrl>https://github.com/iugamlabs/pdf-toc-extractor</PackageProjectUrl>
+        <RepositoryUrl>https://github.com/iugamlabs/pdf-toc-extractor</RepositoryUrl>
         <PackageLicenseExpression>MIT</PackageLicenseExpression>
         <PackageReadmeFile>README.md</PackageReadmeFile>
     </PropertyGroup>

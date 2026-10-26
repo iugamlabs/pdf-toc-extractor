@@ -2,7 +2,7 @@
 
 ![License](https://img.shields.io/badge/license-MIT-blue)
 ![.NET](https://img.shields.io/badge/.NET-8.0-purple)
-![Build Status](https://github.com/star-plan/pdf-toc-extractor/workflows/持续集成/badge.svg)
+![Build Status](https://github.com/iugamlabs/pdf-toc-extractor/workflows/持续集成/badge.svg)
 ![NuGet](https://img.shields.io/nuget/v/PdfTocExtractor)
 
 PdfTocExtractor 是一个纯 C# AOT 实现的轻量级PDF目录提取工具，用于从PDF文件中提取目录（TOC）并导出为多种格式。支持Markdown、JSON、XML、纯文本等格式，完全摆脱命令行依赖，无需额外的PDF处理工具，适合在 .NET 项目中内嵌、分发或集成自动化流程中使用。
@@ -38,7 +38,7 @@ dotnet tool install --global PdfTocExtractor.Cli
 
 ### 从 GitHub Releases 下载
 
-访问 [Releases页面](https://github.com/star-plan/pdf-toc-extractor/releases) 下载适合您平台的可执行文件：
+访问 [Releases页面](https://github.com/iugamlabs/pdf-toc-extractor/releases) 下载适合您平台的可执行文件：
 
 - **Windows**: `PdfTocExtractor-windows-{version}.zip`
 - **Linux**: `PdfTocExtractor-linux-{version}.tar.gz`
@@ -47,7 +47,7 @@ dotnet tool install --global PdfTocExtractor.Cli
 ### 从源码构建
 
 ```bash
-git clone https://github.com/star-plan/pdf-toc-extractor.git
+git clone https://github.com/iugamlabs/pdf-toc-extractor.git
 cd PdfTocExtractor
 dotnet build -c Release
 ```
@@ -468,7 +468,7 @@ MIT License
 
 ```bash
 # 克隆仓库
-git clone https://github.com/star-plan/pdf-toc-extractor.git
+git clone https://github.com/iugamlabs/pdf-toc-extractor.git
 cd PdfTocExtractor
 
 # 恢复依赖
@@ -598,6 +598,6 @@ dotnet tool uninstall --global PdfTocExtractor.Cli
 
 如果您遇到问题或有建议，请：
 
-- 📋 [提交Issue](https://github.com/star-plan/pdf-toc-extractor/issues)
-- 💬 [参与讨论](https://github.com/star-plan/pdf-toc-extractor/discussions)
+- 📋 [提交Issue](https://github.com/iugamlabs/pdf-toc-extractor/issues)
+- 💬 [参与讨论](https://github.com/iugamlabs/pdf-toc-extractor/discussions)
 - ⭐ 如果这个项目对您有帮助，请给个Star！
